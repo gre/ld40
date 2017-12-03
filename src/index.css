@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: #e84a5f;
+  text-align: center;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+a,
+a:hover {
+  text-decoration: underline;
+  color: inherit;
+}
